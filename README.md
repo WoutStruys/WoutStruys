@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm Wout Struys, a passionate technologist focusing on AI, and Robotics.
+Hi, I'm Wout Struys, a passionate technologist focusing on AI, and Robotics, 3D-printing, Smart Home.
 
 ## About Me
 
