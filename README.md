@@ -19,7 +19,7 @@ Hi, I'm Wout Struys, a passionate technologist focusing on AI, Robotics, 3D prin
 ## Contact Me
 
 - 📧 Email: [hallo@woutstruys.com](mailto:hallo@woutstruys.com)
-- 🌐 LinkedIn: [your-linkedin-profile]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/wout-struys/))
+- 🌐 LinkedIn: [Wout Struys](https://www.linkedin.com/in/wout-struys/)
 
 <!---
 WoutStruys/WoutStruys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
