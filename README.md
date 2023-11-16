@@ -6,7 +6,8 @@ Hi, I'm Wout Struys, a passionate technologist focusing on AI, Robotics, 3D prin
 
 - 👋 Username: @WoutStruys
 - 👀 Interests: 3D-Printing, Home Automation, AI, Robotics
-- 🎓 Education: Bachelor's degree in Applied Computer Science
+- 👨‍🎓 Education: Pursuing Industrial Engineering: Computer Science, KU Leuven, UHasselt
+- 🎓 Degree: Bachelor's degree in Applied Computer Science          
 - 💼 Current Job: PXL Smart ICT
 - 🛠 Skills: Python, Java, C#, Home Assistant, 3D Modeling, Machine Learning, ROS
 
