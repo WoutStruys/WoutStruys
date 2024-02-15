@@ -7,15 +7,17 @@ Hi, I'm Wout Struys, a passionate technologist focusing on AI, Robotics, 3D prin
 - 👋 Username: @WoutStruys
 - 👀 Interests: 3D-Printing, Home Automation, AI, Robotics
 - 👨‍🎓 Education: Pursuing a Master's Degree in Industrial Engineering: Computer Science, at KU Leuven and UHasselt.
-- 🎓 Degree: Bachelor's degree in Applied Computer Science          
-- 💼 Current Job: Researcher @ PXL Smart ICT
+- 🎓 Degree: Bachelor's degree in Applied Computer Science
 - 🛠 Skills: Python, Java, C#, Home Assistant, 3D Modeling, Machine Learning, ROS
 
 ## Current Projects
 
 - 🤖 Building a home automation system using Home Assistant
-- 🛠 Working on [AMOROSO²](https://amoroso.pxl.be/) Project at PXL Smart ICT
 - 🖨 Developing custom 3D-printed parts for various applications
+
+## Past Projects
+
+- 🛠 Workied on the [AMOROSO²](https://amoroso.pxl.be/) Project at PXL Smart ICT
 
 ## Contact Me
 
