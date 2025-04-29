@@ -21,7 +21,7 @@ Hi, I'm Wout Struys, a passionate technologist focusing on AI, Robotics, 3D prin
 
 ## Contact Me
 
-- 📧 Email: [woutstruys@outlook.com](mailto:woutstruys@outlook.com)
+- 📧 Email: [wout.struys@outlook.com](mailto:wout.struys@outlook.com)
 - 🌐 LinkedIn: [Wout Struys](https://www.linkedin.com/in/wout-struys/)
 
 <!---
